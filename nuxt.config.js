@@ -3,10 +3,11 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  // ssr:false,
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - vuetify',
+    titleTemplate: '%s- Real World Events',
     title: 'real-world-nuxt',
     htmlAttrs: {
       lang: 'en',
