@@ -1,0 +1,49 @@
+{"events": [
+
+   {
+      "id": 101,
+      "user": {
+         "id": "abc123",
+         "name":"Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time":"2:00",
+      "attendees": []
+   },
+   {
+      "id": 102,
+      "user": {
+         "id": "abc124",
+         "name":"Andres"
+      },
+      "category": "animal welfare",
+      "organizer": "adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time":"2:00",
+      "attendees": []
+   },
+   {
+      "id": 103,
+      "user": {
+         "id": "abc125",
+         "name":"Ana"
+      },
+      "category": "animal welfare",
+      "organizer": "adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time":"2:00",
+      "attendees": []
+   }
+]
+}
